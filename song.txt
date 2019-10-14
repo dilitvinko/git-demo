@@ -4,6 +4,9 @@
 3 la-la-la
 4 la-la-la
 
+UPDATE song
+UPDATE 2.0
+
 5 qwe qwe
 6 asd asd
 
@@ -13,7 +16,7 @@ here
 
 new feature __ new song
 la-le-ly
-pi-po-py
+pi-po-pooooooooo
 
 second feature __ new song
 qwe asd
